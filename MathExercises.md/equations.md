@@ -6,7 +6,8 @@ $$y - 2 = \frac{4 - 2}{3 - 1}(x - 1)$$
 $$y - 2 = x - 1$$  
 $$y = x + 1$$
 
- 
+ <img width="694" alt="Adsız" src="https://github.com/user-attachments/assets/0fd1c809-9c98-4aaa-a989-67d54b88e37a" />
+
 
 
 
