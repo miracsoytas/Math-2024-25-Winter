@@ -6,7 +6,11 @@ $$y - 2 = \frac{4 - 2}{3 - 1}(x - 1)$$
 $$y - 2 = x - 1$$  
 $$y = x + 1$$
 
+<<<<<<< HEAD
+ <img src="/Users/miracsoytas/Desktop/Adsız.png" alt=>
+=======
  <img width="694" alt="Adsız" src="https://github.com/user-attachments/assets/0fd1c809-9c98-4aaa-a989-67d54b88e37a" />
+>>>>>>> afa0a914e96701a265b866632f6ab63f04f9a948
 
 
 
@@ -288,22 +292,29 @@ $ 6x + 4y + 3z = 12 $
 
 
 8. **Calculate the angle between the plane \( x + y + z = 1 \) and the plane \( z = 0 \) (i.e., the \( xy \) plane).**
-  - The angle $ \theta $ is calculated using the dot product of their normal vectors:
+  
 
-$ \cos \theta = \frac{n_1 \cdot n_2}{|n_1||n_2|} $
+- The angle $\theta$ is calculated using the dot product of their normal vectors:
 
-$ = \frac{|1(0) + 1(0) + 1(1)|}{\sqrt{1^2 + 1^2 + 1^2}\sqrt{0^2 + 0^2 + 1^2}} $
+$ \cos \theta $ = $ (n_1 \cdot n_2) $ / $ (|n_1| |n_2|) $
 
-$ = \frac{1}{\sqrt{3}} $
+= $ |1(0) + 1(0) + 1(1)| $ / $ (\sqrt{1^2 + 1^2 + 1^2} \cdot \sqrt{0^2 + 0^2 + 1^2}) $
 
-$ \theta = \arccos\left(\frac{1}{\sqrt{3}}\right) \approx 54.74^\circ $
+= $ 1 $ / $ \sqrt{3} $
+
+$ \theta = \arccos(1 / \sqrt{3}) \approx 54.74^\circ $
 
 $ 54.74^\circ $
 
 <img width="781" alt="Ekran Resmi 2024-12-13 10 54 48" src="https://github.com/user-attachments/assets/9ad44f63-278d-4bf0-8065-de8f5403aaab" />
 
 
+<<<<<<< HEAD
 
+
+=======
+
+>>>>>>> afa0a914e96701a265b866632f6ab63f04f9a948
 9. **Find the vector perpendicular to the plane \( x + y + z = 1 \).**
    - The normal vector of the plane is \( \mathbf{n} = (1, 1, 1) \).
    \[
