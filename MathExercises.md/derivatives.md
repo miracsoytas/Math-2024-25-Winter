@@ -9,9 +9,6 @@
 ```math
 1.y(x) = -3x + 3 \implies y'(x) = -3
 ```
-f97f7a71e5f57bdaa1a760d3040d05a3e6cac5e6
----
-=======
 
 
 
